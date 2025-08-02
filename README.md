@@ -1,0 +1,2 @@
+# Change-point-analysis-and-statistical-modelling-of-time-series-data
+The goal of this analysis is to study how important events affect oil prices. It focuses on how changes in oil prices are linked to big events like political decisions, conflicts in oil-producing regions and global economic sanctions. The aim is to provide clear insights that can help investors and analysts understand these price changes better.
